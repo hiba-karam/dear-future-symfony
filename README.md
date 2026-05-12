@@ -1,4 +1,4 @@
-# Dear Future - La Capsule Temporelle Numérique
+# Dear Future - Capsule Temporelle Numérique
 
 ## À propos
 Ce projet est développé dans le cadre du module Programmation PHP et Framework à l'**EMSI**. Il s'agit d'une application web de capsule temporelle permettant aux utilisateurs d'écrire des lettres qui ne se déverrouillent qu'à une date future précise, garantissant la confidentialité et l'intégrité du message jusqu'au moment choisi.
